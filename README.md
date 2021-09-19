@@ -1,3 +1,1 @@
-# blooddonationdatabasemysql
 
-blood donation database
